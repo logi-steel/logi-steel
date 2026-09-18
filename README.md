@@ -30,21 +30,18 @@ my main interests are:
     <img src="https://skillicons.dev/icons?i=rust" />
   </a>
 </p>
-
 ### python ### 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
-
 ### lua ### 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua" />
   </a>
 </p>
-
-### no more lol ###
+### my stats (kinda poor but hey) ###
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=logi-steel&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=logi-steel&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=shadow_blue)
