@@ -17,20 +17,25 @@ a ** year old *wannabe* programmer (yea who would have guessed)
 
 ## my most loved language's ##
 
-### Rust ##
+### Rust ###
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust" />
   </a>
 </p>
 
-why ?
-1. it is fun to learn (not counting the compiler)
-  
-2. safe (it has better memory than you)
- 
-3. it is open source (it is good to have the source of the most growing language ever in the 21st century)
- 
-4. it is / can be everywhere (esp-32/pc/web (via wasm)/ back/frontend)
- 
-TL;DR: best for all (not counting the from hell out of compiler) 
+### python ### 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
+
+### lua ### 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=lua" />
+  </a>
+</p>
+
+### no more lol ###
