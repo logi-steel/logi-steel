@@ -1,4 +1,4 @@
-![logi the 1st](banner.png)
+![logi the 1st](assets/banner.png)
 ## Wassup ✌️
 
 ### I am logi, to be specific. Logi-steel  
