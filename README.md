@@ -5,6 +5,6 @@
 a /*/* year old *wanabe* programmer (yea who would have guessed) 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,helix,rust,neovim" />
   </a>
 </p>
