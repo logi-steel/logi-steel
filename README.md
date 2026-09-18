@@ -17,7 +17,7 @@ a ** year old *wanabe* programmer (yea who would have guessed)
 
 ## my most loved language's ##
 
-### rust# ##
+### rust ##
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust" />
