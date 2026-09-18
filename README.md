@@ -1,8 +1,15 @@
-## Wassup :)
+## Wassup ✌️
 
-### I am logi, to be specific. Logi-steel 
+### I am logi, to be specific. Logi-steel  
 
-a ** year old *wannabe* programmer (yea who would have guessed) 
+a ** year old *wannabe* programmer (yea who would have guessed) 💻
+
+my main interests are:
+
+1. Software (who would have guessed x2) 👨‍💻
+2. games (board and video)
+3. 3d printing 🖨️
+4. trying to do all but learn some new languages 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,rust,arduino" />
