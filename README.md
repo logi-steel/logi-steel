@@ -19,26 +19,9 @@ developer infrastructure.
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-main%20electricity%20bill%20maker%20site-00AE42?style=for-the-badge&logo=bambulab&logoColor=white&labelColor=1a1a1a)](https://makerworld.com)
 
 ## my core skills  ##
-
-### Rust ###
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust" />
-  </a>
-</p> 
-
- ### python ###
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</p> 
-
- ### lua ###
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua" />
-  </a>
-</p> 
-
+- programming really good in team
+- modding the hell out of what i have
+- trying to learn new things but losing motivation
+- big knowledge about 3d printing
+- ceo of nothing (not the phone makers)
 
