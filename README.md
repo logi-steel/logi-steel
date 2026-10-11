@@ -19,11 +19,9 @@ developer infrastructure.
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-main%20electricity%20bill%20maker%20site-00AE42?style=for-the-badge&logo=bambulab&logoColor=white&labelColor=1a1a1a)](https://makerworld.com)
 
 <!-- puls:start -->
-### 🫀 live from my desk
-
-💤 nothing to report yet.
-
-<sub>auto-updated 2026-10-11 10:22 CEST by <b>puls</b>, a tiny daemon on my laptop · no servers, no open ports</sub>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/logi-steel/logi-steel/puls/puls.svg" alt="puls: what I'm coding and listening to right now" />
+</p>
 <!-- puls:end -->
 
 ## my core skills  ##
