@@ -18,6 +18,14 @@ developer infrastructure.
 [![YouTube](https://img.shields.io/badge/YouTube-main%20music%20site-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://youtube.com)
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-main%20electricity%20bill%20maker%20site-00AE42?style=for-the-badge&logo=bambulab&logoColor=white&labelColor=1a1a1a)](https://makerworld.com)
 
+<!-- puls:start -->
+### 🫀 live from my desk
+
+💤 nothing to report yet.
+
+<sub>auto-updated 2026-10-11 10:22 CEST by <b>puls</b>, a tiny daemon on my laptop · no servers, no open ports</sub>
+<!-- puls:end -->
+
 ## my core skills  ##
 - programming really good in team
 - modding the hell out of what i have
