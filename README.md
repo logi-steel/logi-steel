@@ -9,7 +9,7 @@ developer infrastructure.
 - tools: Git · Docker · Linux · Apple Silicon 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,rust,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,nix,rust,py,lua,docker,arduino" />
   </a>
 </p>
 
